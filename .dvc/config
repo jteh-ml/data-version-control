@@ -1,0 +1,4 @@
+[core]
+    remote = dev-dvc-ds-test
+['remote "dev-dvc-ds-test"']
+    url = s3://ds-dev-dvc
